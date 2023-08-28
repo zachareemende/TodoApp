@@ -56,7 +56,7 @@ const TodoForm = (props) => {
         <h2>Add a Task</h2>
         <form onSubmit={formHandler}>
             <div>
-                <label htmlFor="name">Task:</label>
+                <label htmlFor="name">Task Name:</label>
                 <input type="text" name="name" onChange={onChangeHandler} value={form.name} />
                 <div>
                     {errors ? <span className="text-danger">{errors}</span> : ""}

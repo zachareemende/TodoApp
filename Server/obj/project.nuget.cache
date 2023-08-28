@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zilph2d8GvILvaBazAg+FGm0ZLJqoau3hv2Y2oxRE7MbIY3tBm1pKt5e9DkOEKhKw5IrgxXfWZG5icWr5fX8og==",
+  "dgSpecHash": "mXdlrbl1a3Gs8aD36E5aibmmktSaQ+4/5riTgJU4dnqqAANXTtNqKYE5UwCqfSPNywdNGGtQsPU3glMDogf2nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zacha\\Documents\\VSCode\\personal\\projects\\TodoApp\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\zacha\\Documents\\VSCode\\projects\\TodoApp\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zacha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zacha\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
